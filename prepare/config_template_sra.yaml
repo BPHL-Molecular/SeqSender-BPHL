@@ -1,0 +1,31 @@
+Submission:
+  NCBI:
+    Username: <bphl ftp name>
+    Password: <bphl ftp password>
+    Spuid_Namespace: FLDOH
+    Publication_Title: Pathogen clinical or host-associated
+    Publication_Status: Unpublished
+    Specified_Release_Date: 
+    Link_Sample_Between_NCBI_Databases: True
+    Submission_Position: 2
+    Description:
+      Organization:
+        Role: owner
+        Type: institute
+        Name: FLDOH
+        Address:
+          Affil: Florida Department of Health
+          Div: BPHL
+          Street: 1217 N Pearl St
+          City: Jacksonville
+          Sub: FL
+          Postal_Code: 32202
+          Country: USA
+          Email: <email>
+          Phone: 
+        Submitter:
+          Email: <email>
+          Alt_Email: <email>
+          Name:
+            First: FLDOH
+            Last: FLDOH

@@ -1,0 +1,1 @@
+Put fastq files to the folder "raw_reads"
