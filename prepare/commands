@@ -1,0 +1,7 @@
+#sra upload
+python seqsender.py submit --organism OTHER --sra --submission_name prepare --submission_dir /<path to the upper level of the folder "prepare">/ --config_file config_template_sra.yaml --metadata_file metadata_template_sra.csv
+
+
+
+# biosample upload
+python seqsender.py submit --organism OTHER --biosample --submission_name prepare --submission_dir /<path to the upper level of the folder "prepare">/ --config_file config_template_bs.yaml --metadata_file metadata_template_bs.csv
