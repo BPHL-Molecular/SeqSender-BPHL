@@ -11,5 +11,7 @@ Note: all file templates can be found in /prepare.
 
               
                
-#### Note 1: the original SeqSender can be found in https://github.com/CDCgov/seqsender/tree/master
-#### Note 2: More detailed introduction about how to prepare for config.yaml and metada.csv files can be found in https://cdcgov.github.io/seqsender/
+#### Note 1:                         
+The original SeqSender can be found in https://github.com/CDCgov/seqsender/tree/master
+#### Note 2:                  
+More detailed introduction about how to prepare for config.yaml and metada.csv files can be found in https://cdcgov.github.io/seqsender/
