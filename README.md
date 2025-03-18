@@ -1,5 +1,5 @@
 # SeqSender-BPHL
-The modified SeqSender specifically for Florida BPHL to upload data to NCBI.
+The modified SeqSender specifically for Florida BPHL to upload data to NCBI.       
 The modified version can log in directly to FL-BPHL's ftp directory. The "Production" folder required by the pipeline has also been pre-installed in FL-BPHL's ftp directory.    
 ## How to run
 ### Prepare data and files for NCBI submission
