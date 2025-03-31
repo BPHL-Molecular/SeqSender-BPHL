@@ -66,7 +66,7 @@ def ncbi_login(config_dict: Dict[str, Any]):
 	ftp = ftplib.FTP(NCBI_FTP_HOST)
 	ftp.login(user=config_dict["Username"], passwd=config_dict["Password"])
     ################## direct to florida bphl's ftp folder in NCBI servier. Revised by YD #############################################
-	ftp.cwd('uploads/dlbphl16wgsjax_flhealth.gov_5fzzAR7m')  
+	#ftp.cwd('uploads/dlbphl16wgsjax_flhealth.gov_5fzzAR7m')  
     #################################################################################################################################
     
 	return ftp
