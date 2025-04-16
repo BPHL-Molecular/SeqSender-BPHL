@@ -12,9 +12,9 @@ The modified version can log in directly to FL-BPHL's ftp directory.
 1) Fill out the commands in the file "commands" according to your folder's directory.
 2) In a terminal, jump to the directory of /seqsender-BPHL/seqsender-BPHL/
 3) Copy and run the commands you just filled out in the current directory.
-
-              
-               
+             
+## Example
+An example can be found in the folder "example"          
 #### Note 1:                         
 The original SeqSender can be found in https://github.com/CDCgov/seqsender/tree/master
 #### Note 2:                  
