@@ -18,7 +18,7 @@ An example can be found in the folder "example"
 
 
 
-                     
+## Note                    
 #### Note 1:                         
 The original SeqSender can be found in https://github.com/CDCgov/seqsender/tree/master
 #### Note 2:                  
